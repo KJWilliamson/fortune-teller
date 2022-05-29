@@ -1,0 +1,36 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+      background-image: url('ft.jpg');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-color: black;
+  }
+  
+  h2 {
+      color: white;
+      font-size: 40px;
+      margin-left: 85px;
+      font-family: 'Blaka', cursive;
+  }
+
+  button {
+      background-color: purple;
+      border: purple;
+      padding: 20px;
+      text-align: center;
+      font-size: 30px;
+      border-radius: 50%;
+      /* margin-left: 1200px; */
+      margin-left: 400px;
+  }
+
+
+
+
+  /* mobile */
+
+  
