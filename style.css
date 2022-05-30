@@ -12,7 +12,7 @@ html, body {
   
   h2 {
       color: white;
-      font-size: 40px;
+      font-size: 35px;
       margin-left: 85px;
       font-family: 'Blaka', cursive;
   }
@@ -24,7 +24,7 @@ html, body {
       text-align: center;
       font-size: 25px;
       border-radius: 50%;
-      margin-left: 395px;
+      margin-left: 595px;
   }
 
 
@@ -35,9 +35,9 @@ html, body {
   /* fix styling and make modal for response/fortune */
 h3 {
     position: relative;
-    margin-left: 645px;
-    bottom: 100px;
-    background-color: rgb(210,232,105);
+    margin-left: 635px;
+    bottom: 225px;
+    /* background-color: rgb(210,232,105); */
     color: black;
     font-size: 25px;
 }
