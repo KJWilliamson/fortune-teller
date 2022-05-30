@@ -4,7 +4,7 @@ html, body {
   }
   
   body {
-      background-image: url('ft.jpg');
+      background-image: url('madame.JPG');
       background-repeat: no-repeat;
       background-position: center;
       background-color: black;
@@ -18,8 +18,8 @@ html, body {
   }
 
   button {
-      background-color: purple;
-      border: purple;
+      background-color: rgb(210,232,105);
+      border: rgb(210,232,105);
       padding: 40px;
       text-align: center;
       font-size: 25px;
