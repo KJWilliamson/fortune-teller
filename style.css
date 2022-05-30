@@ -32,7 +32,8 @@ html, body {
   https://www.tutorialspoint.com/css/css_positioning.htm# 
   */
 
-  /* fix styling and make modal for response/fortune */
+  /* fix styling and make modal for response/fortune 
+  . decided to have response on crystal ball. */
 h3 {
     position: relative;
     margin-left: 605px;

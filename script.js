@@ -4,7 +4,7 @@ let modal = document.querySelector("#modal");
 button.addEventListener("click", function() {
 
 
-let randomNum = Math.floor( Math.random() * 14 ) +1;
+let randomNum = Math.floor( Math.random() * 15 ) +1;
 let answers = "";
   switch (randomNum) {
   case 1: 
@@ -17,7 +17,7 @@ let answers = "";
     answers = "Be patient.<br> It's not time."; 
     break;
   case 4: 
-    answers = "Ask for that <br>promotion";
+    answers = "Ask for that <br>promotion you're<br> qualified for.";
     break;
   case 5:
     answers = "Buy a lottery <br>ticket Saturday.";
@@ -49,7 +49,10 @@ let answers = "";
   case 14:
     answers = "You see which <br>behavioral patterns, <br>people, or situations <br>no longer <br>serve you";
     break;
-    
+  case 15:
+    answers = "Keep moving forward<br> towards your goal.";
+    break;
+
       }
   
   modal.innerHTML = answers;
