@@ -4,7 +4,7 @@ let modal = document.querySelector("#modal");
 button.addEventListener("click", function() {
 
 
-let randomNum = Math.floor( Math.random() * 7 ) +1;
+let randomNum = Math.floor( Math.random() * 8 ) +1;
 let answers = "";
   switch (randomNum) {
   case 1: 
@@ -28,7 +28,13 @@ let answers = "";
   case 7:
     answers = "Stop worrying<br> and just ask.";
     break;
-  }
+  case 8:
+    answers = "Take that job<br> in another <br>country.";
+    break;
+  case 9:
+    answers = "Change careers. It's<br> not too late."
+      }
+  
   modal.innerHTML = answers;
 
 });
