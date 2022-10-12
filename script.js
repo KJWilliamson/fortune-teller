@@ -17,41 +17,50 @@ let answers = "";
     answers = "Be patient.<br> It's not time."; 
     break;
   case 4: 
-    answers = "Ask for that <br>promotion you're<br> qualified for.";
+    answers = "Ask for that <br>promotion.";
     break;
   case 5:
     answers = "Buy a lottery <br>ticket Saturday.";
     break;
   case 6: 
-    answers = "Join that gym <br>you drive past <br>everyday.";
+    answers = "Keep your cool <br>at work. Trouble <br>is brewing";
     break;
   case 7:
     answers = "Stop worrying<br> they'll say no<br> and just ask.";
     break;
   case 8:
-    answers = "Take that job<br> in another <br>country.";
+    answers = "Stay put for <br> the rest of <br>the year.";
     break;
   case 9:
-    answers = "Change careers.<br> It's not too<br> late."
+    answers = "Avoid phone <br> calls today."
     break;
   case 10:
-    answers = "Change is <br>coming, so <br>go with <br>the flow!";
+    answers = "A big change <br> is coming!";
     break;
   case 11:
-    answers = "You will have an<br>opportunity to <br>choose a different <br>path";
+    answers = "Choose a <br>different path";
     break;
   case 12:
-    answers = "Give less <br>attention or <br>energy to <br>unproductive <br>situations";
+    answers = "Work through<br> your fears before<br> it's too late.";
     break;
   case 13:
-    answers = "Build something <br>new in <br>your life.";
+    answers = "Be careful <br>on Thursday";
     break;
   case 14:
-    answers = "You see which <br>behavioral patterns, <br>people, or situations <br>no longer <br>serve you";
+    answers = "Avoid graveyards <br>for the month <br>of November";
     break;
   case 15:
-    answers = "Keep moving forward<br> towards your goal.";
+    answers = "Trust your <br>intuition";
     break;
+  case 16:
+      answers = "Adopt a<br> black cat.";
+      break;
+  case 17:
+        answers = "Don't leave <br>the house today.";
+        break;
+  case 18:
+          answers = "Call an <br>old friend.";
+          break;
 
       }
   
